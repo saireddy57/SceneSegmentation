@@ -1,6 +1,6 @@
 ### Metrics
 
-<img src="https://github.com/user-attachments/assets/dfc9883e-315b-44bc-a1e3-882e80f7b2ed" alt="My Image" width="100">
+<img src="https://github.com/user-attachments/assets/dfc9883e-315b-44bc-a1e3-882e80f7b2ed" alt="My Image" width="500">
 
 
 ![|1](https://github.com/user-attachments/assets/dfc9883e-315b-44bc-a1e3-882e80f7b2ed)
