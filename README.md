@@ -33,6 +33,9 @@ Fine-tuning hyperparameters to improve generalization.
 Experimenting with other teacher-student combinations or backbone architectures.
 Exploring post-processing techniques to enhance segmentation accuracy.
 
+
+Logging the Experiments in WANDB
+
 ### Metrics
 
 <img src="https://github.com/user-attachments/assets/dfc9883e-315b-44bc-a1e3-882e80f7b2ed" alt="My Image" width="400"> <img src="https://github.com/user-attachments/assets/82c26072-3113-41aa-aefd-172081ff93a2" alt="My Image" width="400">
