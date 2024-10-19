@@ -1,6 +1,6 @@
 ### Metrics
 
-![alt text|100](https://github.com/user-attachments/assets/dfc9883e-315b-44bc-a1e3-882e80f7b2ed)
+![alt text|10](https://github.com/user-attachments/assets/dfc9883e-315b-44bc-a1e3-882e80f7b2ed)
 
 https://github.com/user-attachments/assets/82c26072-3113-41aa-aefd-172081ff93a2
 
