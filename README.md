@@ -19,11 +19,14 @@ Distillation Loss: Leveraging the softer output of the teacher model to guide th
 ## Training Results:
 
 Train Loss: 0.157
+
 Train IOU: 0.650
+
 Validation Loss: 0.210
+
 Validation IOU: 0.623
 
-The model achieves a good balance between accuracy and computational efficiency, with the student model reaching a Train IOU of 0.650 and a Validation IOU of 0.623.
+The model achieves a good balance between accuracy and computational efficiency, with the student model reaching a **Train IOU of 0.650 and a Validation IOU of 0.623**.
 
 Future Improvements:
 Fine-tuning hyperparameters to improve generalization.
