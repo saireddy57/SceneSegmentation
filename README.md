@@ -1,4 +1,4 @@
-# Scene Segmentation with UNET Using Knowledge Distillation
+## Scene Segmentation with UNET Using Knowledge Distillation
 
 This project implements a UNET-based semantic segmentation model for road scene segmentation. We utilized knowledge distillation to enhance the training process by transferring knowledge from a larger teacher model (Resnet34 backbone) to a smaller student model (Resnet18 backbone). The objective was to maintain high accuracy while reducing the model size for efficient deployment.
 
